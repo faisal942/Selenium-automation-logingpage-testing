@@ -7,3 +7,14 @@ It automates the login process, verifies navigation to the inventory page, and t
 
 ## 📂 Project Structure
 
+user requirements.txt for dependency 
+or manually 
+ 
+git clone https://github.com/faisal942/Selenium-automation-logingpage-testing.git
+cd Selenium-automation-logingpage-testing
+pip install selenium pytest
+pytest -v
+
+
+
+
