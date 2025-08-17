@@ -1,0 +1,16 @@
+ 
+---
+
+## ⚙️ Requirements
+
+- **Python** 3.7 or higher  
+- **Google Chrome** browser  
+- **ChromeDriver** (version must match your Chrome browser)  
+- **Selenium**  
+- **Pytest**
+
+### Install dependencies
+You can install everything at once using the requirements file:
+```bash
+pip install -r requirements.txt
+
